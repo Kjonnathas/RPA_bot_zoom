@@ -222,7 +222,7 @@ if df.shape[0] >= 1:
 
     # declaração das variáveis
 
-    smtp_servidor = "smtp-mail.outlook.com"
+    smtp_servidor = "insira o smtp de e-mail aqui"
 
     smtp_porta = 587
 
