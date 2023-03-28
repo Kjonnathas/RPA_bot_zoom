@@ -8,7 +8,7 @@ Lógica do script:
 
 - Procura pelo produto desejado;
 
-- Varre todas as páginas encontradas e coleta as informações de nome do produto, preço, parcelamento, loja anunciante e link do anúncio;
+- Percorre todas as páginas encontradas e coleta as informações de nome do produto, preço, parcelamento, loja anunciante e link do anúncio;
 
 - Cria dois arquivos em .xlsx, um para armazenar todos os produtos encontrados e outro para armazenar apenas os produtos encontrados dentro da faixa de preço estabelecida;
 
