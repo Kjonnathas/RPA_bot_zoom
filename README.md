@@ -17,13 +17,3 @@ Lógica do script:
 - Fecha o navegador e finaliza o código.
 
 Foi criado um ambiente virtual para desenvolver o código e para instalar apenas as bibliotecas utilizadas no projeto. Além disso, foi criado um executável para que qualquer pessoa possa utilizar, indenpendente de qual máquina esteja rodando.
-
-Passo a passo de como utilizar o código:
-
-1. Baixe a pasta "dist";
-
-2. Siga o caminho: dist >> Bot_zoom e, posteriormente, procure pelo arquivo "Produto.txt";
-
-3. Abra o arquivo "Produto.txt" e insira o nome do produto desejado, preco mínimo e preço máximo. Ex.: Televisão Samsung 50 polegadas, 2000, 3500
-
-Obs.: O arquivo "Produto.txt" precisa estar justamente como demonstrado no exemplo acima, senão irá ocorrer erro na manipulação dos dados.
