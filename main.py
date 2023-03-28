@@ -224,7 +224,7 @@ if df.shape[0] >= 1:
 
     smtp_servidor = "insira o smtp de e-mail aqui"
 
-    smtp_porta = 587
+    smtp_porta = "insira a porta aqui"
 
     login = "insira seu e-mail aqui"
 
