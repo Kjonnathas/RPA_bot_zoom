@@ -243,7 +243,7 @@ if df.shape[0] >= 1:
     email = MIMEMultipart()
     email["From"] = "insira seu e-mail aqui"
     email["To"] = "insira o e-mail do destinatário aqui"
-    email["Subject"] = "RPA Python"
+    email["Subject"] = "insira o assunto do e-mail aqui"
 
     caminho_anexo = r"./produtos_selecionados.xlsx"
     anexo = open(caminho_anexo, "rb")
